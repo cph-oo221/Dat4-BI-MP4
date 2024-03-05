@@ -13,6 +13,8 @@ xxx
 
 ## Project Content
 
-#### **1. [MP4 - Solution (ipynb)](MP5.ipynb)**
+#### **1. [MP5 - Solution (ipynb)](MP5.ipynb)**
 
 ## Questions
+
+- Suggest various implementations of such an application:
