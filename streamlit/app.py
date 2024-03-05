@@ -11,7 +11,7 @@ df = pd.read_csv("../data/HR-Employee-Attrition.csv")
 
 st.markdown(
     """
-    ### Finding user input related to text pieces
+    ### Finding text pieces/articles related to user input: 
     <style>
         .stButton>button:focus:not(:active) {
             border: none !important;
