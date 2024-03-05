@@ -13,7 +13,7 @@ Mini Project 5 is about working with text. In this project we are taking text pi
 
 ## Project Content
 
-#### **1. [MP5 - Solution (ipynb)](MP5.ipynb)**
+#### **1. [MP5 - Solution (ipynb)](text_vector.ipynb)**
 
 #### **2. [MP5 - Streamlit Application (py)](./streamlit/)**
 

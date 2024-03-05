@@ -13,7 +13,7 @@ tfidf_matrix = tfidf.fit_transform(df['text'])
 tfidf_matrix.shape
 cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix)
 
-def get_recommendations(text, cosine_sim=cosine_sim):
+def get_similars(text, cosine_sim=cosine_sim):
     text = text.lower()
 
     idx = []
