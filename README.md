@@ -9,7 +9,7 @@
 
 ## Project Description
 
-xxx
+Mini Project 5 is about working with text. In this project we are taking text picese and articels and extreact, clean and transform the data so tt can be used for vectorization. The goal is to have a streamlit application where users can input a text and get the top 3 most related articles from the dataset.
 
 ## Project Content
 
