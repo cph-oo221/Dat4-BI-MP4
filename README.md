@@ -18,3 +18,8 @@ Mini Project 5 is about working with text. In this project we are taking text pi
 ## Questions
 
 - Suggest various implementations of such an application:
+
+  - Input based on user input, the application should return the top 3 most related articles from the dataset. Here can we have a dataset with articles that has been vectorized and then we can use cosine similarity to find the most related articles based on the user input.
+
+  - Text input where the user can input a text and get the top 3 most related articles from the dataset based on the user input.
+    Here can we have a dataset with articles/or other texts that has been vectorized and then we can use cosine similarity to find the most related articles based on the user input.
