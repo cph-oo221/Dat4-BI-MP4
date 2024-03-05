@@ -8,8 +8,6 @@ st.set_page_config(
     layout="wide",
 )
 
-df = pd.read_csv("../data/HR-Employee-Attrition.csv")
-
 st.markdown(
     """
     ### Finding text pieces/articles related to user input: 
