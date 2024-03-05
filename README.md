@@ -15,6 +15,8 @@ Mini Project 5 is about working with text. In this project we are taking text pi
 
 #### **1. [MP5 - Solution (ipynb)](MP5.ipynb)**
 
+#### **2. [MP5 - Streamlit Application (py)](./streamlit/)**
+
 ## Questions
 
 - Suggest various implementations of such an application:
