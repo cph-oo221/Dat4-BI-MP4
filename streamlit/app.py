@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from recommendation import get_recommendations
 
 st.set_page_config(
     page_title="MP5",
@@ -31,4 +32,12 @@ user_input = st.text_input("User input", "Type Here ...")
 
 
 if st.button("Submit"):
-    st.write(user_input)
+
+    if user_input == "Type Here ...":
+        st.write("Please enter a valid input")
+    else:
+        recommendations = get_recommendations(user_input)
+        if recommendations is None:
+            st.write("No articles found")
+        else:
+            st.write(recommendations)
